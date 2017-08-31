@@ -1,6 +1,7 @@
 # ExploderMan
 
 
+
 # Example Blueprint
 The link below shows how I procedurally created the levels in this bomber man clone I was working on.
 
